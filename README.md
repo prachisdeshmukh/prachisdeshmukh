@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm Prachi 👋
 
-<!--
-**prachisdeshmukh/prachisdeshmukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 👩‍💻 About Me
+- Cybersecurity Student
+- Learning Ethical Hacking
+- Interested in Network Security 
 
-Here are some ideas to get you started:
+# Skills
+- Python
+- Linux
+- Networking
+- Git & GitHub
+- Wireshark
+- Nmap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Cybersecurity Tools
+- Kali Linux
+- Burp Suite
+- Metasploit
+- Wireshark
+
+📚 Currently Learning
+- Penetration Testing
+- Web Security
+- Malware Analysis
+
+🚀 Projects
+-
+-
+-
+
+
+## 🌐 Connect With Me
+LinkedIn: www.linkedin.com/in/prachi-deshmukh-038814409
